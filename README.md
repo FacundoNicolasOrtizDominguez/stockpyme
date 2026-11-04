@@ -4,6 +4,8 @@ Aplicación de escritorio para controlar inventario y ventas en comercios, con u
 
 Proyecto universitario en equipo, Universidad del Aconcagua, 2026. Repositorio original del grupo: [Daniel6051/proyecto-grupal](https://github.com/Daniel6051/proyecto-grupal).
 
+**Mi parte (Facundo Ortiz):** desarrollé la interfaz y colaboré en el funcionamiento con varias computadoras conectadas en red.
+
 ## Qué hace
 
 - Inicio de sesión con roles: administrador, vendedor y repositor. Las contraseñas se guardan con bcrypt.
