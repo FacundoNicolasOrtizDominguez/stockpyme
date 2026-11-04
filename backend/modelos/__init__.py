@@ -1,0 +1,1 @@
+from backend.modelos.movimiento_stock import MovimientoStock

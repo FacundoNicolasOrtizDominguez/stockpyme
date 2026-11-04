@@ -1,0 +1,7 @@
+{
+  "pdv": "Caja 2",
+  "modo": "cliente",
+  "servidor_host": "192.168.0.10",
+  "servidor_puerto": 8765,
+  "token": "la-clave-que-muestra-el-servidor"
+}
